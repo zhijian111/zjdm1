@@ -7,6 +7,6 @@ public class seconde {
     int x=10;
     int y=2;
     public static void main(String[] args) {
-
+        System.out.println("hello");
     }
 }
