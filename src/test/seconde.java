@@ -5,7 +5,7 @@ package test;
  */
 public class seconde {
     int x=10;
-    int y=5;
+    int y=2;
     public static void main(String[] args) {
 
     }
